@@ -1,4 +1,4 @@
-# 2D-Character
+# 2D-Skeleton-Animation
  
 It is a Unity3d project to demonstrate the effects of 2D skeleton animation.
 
